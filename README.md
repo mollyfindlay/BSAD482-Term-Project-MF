@@ -16,7 +16,6 @@ As seen in previous attempts, the push for clean energy does not always produce 
 
 ## Data Sources 
 
-Author, A. A. (Year, Month Day). Title of work. Site Name. URL.
 
 Government of Canada, (2026). Canadian Climate Normals, 1991-2020 Climate Normals & Averages. Canada.ca. https://climate.weather.gc.ca/climate_normals/index_e.html
 
