@@ -14,6 +14,17 @@ As seen in previous attempts, the push for clean energy does not always produce 
 ![alt text](<Untitled drawing (4).png>)
 
 
+## Data Sources 
 
+Author, A. A. (Year, Month Day). Title of work. Site Name. URL.
 
+Government of Canada, (2026). Canadian Climate Normals, 1991-2020 Climate Normals & Averages. Canada.ca. https://climate.weather.gc.ca/climate_normals/index_e.html
+
+Government of Canada (2026). Monthly Climate Summaries. Canada.ca. https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html
+
+Statistics Canada, (2026). Electric power generation, monthly generation by type of electricity. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510001501
+
+Statistics Canada, (2024). Household energy consumption, Canada and provinces https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001
+
+Newfoundland Hydro (2026). Publications, Annual Reports 2017-2024. https://nlhydro.com/about-us/publications/
 
