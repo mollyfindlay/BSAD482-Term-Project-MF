@@ -23,6 +23,8 @@ B1: This feedback loop portrays one of the most important variables in this deci
 B2: This loop reflects 
 This Balencing loop shows how political systems react to emissions pressures. Looking Forward at sustaiability goals, this loop visualizes the importance of investment and political willingness to reduce emissions. High emissions can highten political willingness to spend on sustainability efforts (such as hydro and wind technology). This investment increases the renewable technology available to Newfoundland and Labrador, in turn lowering emissions. The implications of this loop are that whichever project is chosen, it must lower emissions to maintain the political systems willingness to invest further. 
 
+### Supporting CLD With Evidence 
+
 ## Data Sources 
 
 
