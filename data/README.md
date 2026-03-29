@@ -1,11 +1,5 @@
 # Data Information 
 
-## Canadian Climate Normals and Averages 1991-2020 (NL, NS, NB, PEI) 
-Source: Government of Canada, 2026.
-
-Date Accessed: March 22, 2026. 
-
-Usage Restrictions: Only available in monthly intervals, many yearly averages not provided. 
 
 ## CLimate Data NL Jan 2016-2026 
 Source: Government of Canada, 2026
@@ -27,6 +21,13 @@ Source: Statsistics Canada, 2024.
 Date Assessed: March 22, 2026. 
 
 Usage Restrictions: Data was only recorded every two years. Data is also missing from the year 2017. 
+
+## Historical GHG Emissions Summary NL 1990-2023 Mar 2025
+Source: Government of Newfoundland and Labrador
+
+Date Assessed: March 29, 2026
+
+Usage Restrictions: File is in PDF format making it difficult to edit and reorganize. Data must be put into an excel file manually. 
 
 ## NL Hydro Financial and Operating Data 2017-2024
 Source: Newfoundland and Labrador Annual Reports 2017-2024.

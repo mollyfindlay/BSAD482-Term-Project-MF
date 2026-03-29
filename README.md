@@ -36,15 +36,21 @@ Newfoundland has an established advanced hydroelectric system that accounts the 
 
 ## Data Sources 
 
-Government of Canada (2026). Monthly Climate Summaries. Canada.ca. https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html
+### Government of Canada (2026). Monthly Climate Summaries. Canada.ca. https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html
+Data Shows monthly climate measurements taken from weather stations across Newfoundland and Labrador. 
 
-Government of Newfoundland and Labrador, (2025). Historical GHG Emissions Summary Newfoundland and Labrador, 1990-2023. https://www.gov.nl.ca/eccc/files/Historical-GHG-Emissions-Summary-NL-1990-2023-Mar-2025.pdf
+### Government of Newfoundland and Labrador, (2025). Historical GHG Emissions Summary Newfoundland and Labrador, 1990-2023. https://www.gov.nl.ca/eccc/files/Historical-GHG-Emissions-Summary-NL-1990-2023-Mar-2025.pdf
+Data displays the recorded emissions for each sector, displaying both total NIR (National Inventory report) emissions and GHG total emissions. 
 
-Newfoundland Hydro (2026). Publications, Annual Reports 2017-2024. https://nlhydro.com/about-us/publications/
 
-Statistics Canada, (2026). Electric power generation, monthly generation by type of electricity. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510001501
+### Newfoundland Hydro (2026). Publications, Annual Reports 2017-2024. https://nlhydro.com/about-us/publications/
+Data shows financial reports from Newfoundland Hydro. Data compiled comes from pdf reports from 2017-2024. 
 
-Statistics Canada, (2024). Household energy consumption, Canada and provinces https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001
+### Statistics Canada, (2026). Electric power generation, monthly generation by type of electricity. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510001501
+Data shows the monthly power generation from each type of electricity. Hydraulic turbones and pind turbines are foccussed on in detail. 
+
+### Statistics Canada, (2024). Household energy consumption, Canada and provinces https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001
+Data provides statistics regarding household energy consumption for Newfoundland and Labrador. Figures diplayed show both household totals and comlete island totals. 
 
 ## Exploratory Data Analysis
 ### Average January Temperature NL 2016-2026
