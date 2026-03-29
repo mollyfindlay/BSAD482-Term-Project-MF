@@ -36,9 +36,6 @@ Newfoundland has an established advanced hydroelectric system that accounts the 
 
 ## Data Sources 
 
-
-Government of Canada, (2026). Canadian Climate Normals, 1991-2020 Climate Normals & Averages. Canada.ca. https://climate.weather.gc.ca/climate_normals/index_e.html
-
 Government of Canada (2026). Monthly Climate Summaries. Canada.ca. https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html
 
 Government of Newfoundland and Labrador, (2025). Historical GHG Emissions Summary Newfoundland and Labrador, 1990-2023. https://www.gov.nl.ca/eccc/files/Historical-GHG-Emissions-Summary-NL-1990-2023-Mar-2025.pdf
