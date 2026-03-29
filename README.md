@@ -49,17 +49,22 @@ Statistics Canada, (2024). Household energy consumption, Canada and provinces ht
 ## Exploratory Data Analysis
 ### Average January Temperature NL 2016-2026
 ![alt text](<img/Average Janurary Temperature NL 2016-2026.png>)
+This visualization displays the average temperature taken monthly from 2016-2026. This is extramly important to this decision as increasing temperatures can be directly linked with climate change. "Temperature is a key indicator of how the climate is changing in response to greenhouse gas (GHG) emissions from human activities, as increasing GHG concentrations result in warming of the lower atmosphere (Government of Canada, 2025). To make any decision regarding future sustainability goals, one must look at the changing climate of Newfoundland and Labrador. This visualization shows the steady increase in temperature over the past decade, further emphasizing the need to push sustainability efforts. 
 
 ### Wind Power Turbine Electricity Generation 2015-2024
 ![alt text](<img/Wind Power Turbine Electricity Generation 2015-2024.png>)
+This visualizations shows the growing use of wind turbine technology in Newfoundland and Labrador. While its not as developed as hydropower methods of energy production, the use of wind technology has been steadily increasing on the island as there have been proposals for future development. "There is a great opportunity to kick start offshore wind energy in Western Newfoundland because of the constant wind and shallow water for installing wind farms" (Government of Canada, 2025). This Visualization is helpful in the decision making process as the decision maker must be aware of the initial growth of this relitivly new sector on the island. As seen in the visualization, wind technology has seen large growth in the past decade. While still in its infancy, wind technology could be the future of sustainability in Newfoundland and Labrador, and the decision maker must see its growth in its initial stages. 
 
 ### Electricity Generation Water Vs Wind 2020-2024 
 ![alt text](<img/Electricity Generation Water Vs Wind 2020-2024 2.png>)
+This visualization displays the portion of electric generation created by both hydropower and wind power. The large difference in electric generation between the two shows how developed hydropower has been the largest contributer to Newfoundland and Labradors sustainablility practices. This visualization is needed to answer this question as the decision maker must know how much electricity each contributes, as well as potential areas for growth. 
+
 
 ### Hydraulic Turbines Impacts on Total Emissions NL 2009-2023
 ![alt text](<img/Hydraulic Turbine's Impacts on Total Emissions NL 2009-2023.png>)
 
 ![alt text](<img/Hydraulic Turbine's Impacts on Total Emissions NL 2009-2023 (With Trend Lines).png>)
+This report shows the relationship between emissions and hydro power, and how the use of sustaiable electricity can effect the emission output of the island. As seen in the visualization, as hydro generation goes up, the reported amount of emissions goes down. There is a notable dip in emissions for the year 2020, as this was during the COVID-19 self isolation period. This report is important for the decision maker as they can see how established hydro-technology has helped influence emissions, and if it is worth it to continue on this path to power their clean energy future. 
 
 
 
