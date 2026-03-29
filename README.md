@@ -47,12 +47,16 @@ Statistics Canada, (2026). Electric power generation, monthly generation by type
 Statistics Canada, (2024). Household energy consumption, Canada and provinces https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001
 
 ## Exploratory Data Analysis
+### Average January Temperature NL 2016-2026
 ![alt text](<img/Average Janurary Temperature NL 2016-2026.png>)
 
+### Wind Power Turbine Electricity Generation 2015-2024
 ![alt text](<img/Wind Power Turbine Electricity Generation 2015-2024.png>)
 
+### Electricity Generation Water Vs Wind 2020-2024 
 ![alt text](<img/Electricity Generation Water Vs Wind 2020-2024 2.png>)
 
+### Hydraulic Turbines Impacts on Total Emissions NL 2009-2023
 ![alt text](<img/Hydraulic Turbine's Impacts on Total Emissions NL 2009-2023.png>)
 
 ![alt text](<img/Hydraulic Turbine's Impacts on Total Emissions NL 2009-2023 (With Trend Lines).png>)
