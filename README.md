@@ -22,11 +22,11 @@ As seen in previous attempts, the push for clean energy does not always produce 
   <li><a href="#references">References</a></li>
 </ul>
 
-
+## Initial CLD
 ![alt text](img/cld-draft.png.jpg)
 
 ## Refined CLD
-![alt text](<img/cld-refined (1).png>)
+![alt text](image.png)
 
 ### Explanation of Key Feedback Loops 
 B1: This feedback loop portrays one of the most important variables in this decision; the public opinion. In the past, highly publisized investments (Such as Churchill Falls) have eroded public trust in the governments decision making. This loop represents how higher investment into electricity generation affect the affordability of electricity for Newfoundland and Labrador. When investments are high, affordability is negativly affected as resedents now have to pay higher electricity bills. Public trust is negativly affected when affordability goes down thus, impacting stakeholders concerns about the project. If skeptisism is high, stakeholders may invest less in the final project. This loop shows the importance of public trust and afforability within this decision. The implications for this decision are that Minister Parsons cannot commit to either wind or hydro and expect to maintain public trust. Project spending and capital investment must be monitored to avoid overspending and large impacts to affordability. 
