@@ -1,5 +1,4 @@
-# Data Information 
-<a href="#Data-Sources">Go to Data Sources</a>
+<h2 id="data-sources">Data Sources</h2>
 
 ## CLimate Data NL Jan 2016-2026 
 Source: Government of Canada, 2026

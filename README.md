@@ -12,9 +12,17 @@ As seen in previous attempts, the push for clean energy does not always produce 
 
 <h1>Table of Contents</h1>
 <ul>
-  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#background">Background</a></li>
+  <li><a href="#data-sources">Data Sources
+  <li><a href="#exploratory">Exploratory Findings (key visualizations with insights)</a></li>
+  <li><a href="#system-dynamics">System Dynamics (final CLD with explanation)</a></li>
+  <li><a href="#analysis">Analysis (summary of Milestone 3 work)</a></li>
+  <li><a href="#recommendations">Recommendations</a></li>
+  <li><a href="#limitations">Limitations and Future Work</a></li>
+  <li><a href="#references">References</a></li>
+</ul>
 
-<h2 id="introduction">Introduction</h2>
+
 ![alt text](img/cld-draft.png.jpg)
 
 ## Refined CLD
@@ -38,7 +46,7 @@ Existing Infrastructure -> (-) -> Project Spending
 Newfoundland has an established advanced hydroelectric system that accounts the largest portion of their total electric generation as seen in table a (reference My own chart CHANGE). This existing infrastructure in specific regions of the island lowers the  capital investment needed for investment into hydroelectricity (Canada Energy Regulator, 2023).
 
 
-## Data Sources 
+<h2 id="references">References</h2>
 
 ### Government of Canada (2026). Monthly Climate Summaries. Canada.ca. https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html
 Data Shows monthly climate measurements taken from weather stations across Newfoundland and Labrador. 
@@ -76,7 +84,7 @@ This visualization displays the portion of electric generation created by both h
 ![alt text](<img/Hydraulic Turbine's Impacts on Total Emissions NL 2009-2023 (With Trend Lines).png>)
 These reports shows the relationship between emissions and hydro power, and how the use of sustaiable electricity can effect the emission output of the island. As seen in the visualization, as hydro generation goes up, the reported amount of emissions goes down. There is a notable dip in emissions for the year 2020, as this was during the COVID-19 self isolation period. This report is important for the decision maker as they can see how established hydro-technology has helped influence emissions, and if it is worth it to continue on this path to power their clean energy future. The use of trendlines helps display the rise in hydro-electric generation and the fall in emissions from 2009-2023. 
 
-
+<h2 id="analysis">Analysis (summary of Milestone 3 work)</h2>
 ## Archytype Analysis 
 ### Growth and Underinvestment 
 In the casaul loop diagram, one of the main relationships present is between renewable energy capacity and monatary investments. Government Investment, project spending, and infrastructure development are all factors that contribute to the growth of renewable technology on the island. While demand for renawable infrastructure is rising, the physical development of both alternative is dependant on government investment and project spending. If investments are delayed, a negative relationship is created where little investment causes slower development for renewable technology. The key loop involved is the B2 balenecing loop, where potential investment (or underinvestment) can negativly or positivly affect the infrastructure needed to develop renewable technology alternatives. Growth in the energy system depends on investment timing and economic conditions as the Canada Energy Regulator (2023) notes. More evidence comes from past hydro electric development in Newfoundland and Labrador, where the Muskrat Falls project investments were delayed significantly, causing slower infrastructural growth due to its reliance on investment. 
@@ -101,12 +109,11 @@ Based on this analysis, hydro energy production is a reliable option as it has b
 The analysis provided suggests that wind power offers a more sustainable path forward, but a more balanced approach may be needed in the future. Prioritization of wind power offers a more flexible low cost option for sustainable energy, but hydro power should not be completely ignored. 
 
 
-## Final CLD 
+<h2 id="system-dynamics">System Dynamics (final CLD with explanation)</h2>
 ![alt text](img/CLD.Final.drawio.png)
 The final CLD represents the factors contributing to the decision of what form of energy production should Newfoundland and Labrador focus on to power their sustainable future. Newfoundland and Labrador has primarily used Hydro power to reduce emissions, but a focus on the unfamiliar alternative of wind power could potentially bring lower costs and more flexibility. The key outcome of this decision is to provide emissions reduction through sustainable energy. The systems archetype identified for this project is growth and underinvestment, meaning that the project is restrained by funding.The major feedback loops in this diagram visualize the key relationships that affect this decision, many of them relating to dependence on project funding. In the B1 balancing loop we see the relationship between project cost, affordability, and public trust. As seen with previous sustainable energy projects, high costs can affect affordability for the public. As prices surge, public trust goes down with it. This distrust coming from the public impacts the feelings of stakeholders, and may erode their own trust in the project outcomes. Stakeholders are directly linked to project funding; the less confident a stakeholder feels about a project, the less funding is put into it. The second balancing loop in this diagram shows the relationship between lowering emissions and project funding. If energy production is successful in lowering emissions, political willingness to invest goes up. This then positively influences the government and project spending into new sustainably focused infrastructure. The structure of this system drives behavior through the relationships between the balancing feedback loops, which when working together shape the success of renewable energy and emissions reduction in Newfoundland and Labrador. This project does not have continuous exponential growth, as it is limited through the B1 loop. This growth is limited through financial and social factors rather than lack of demand for the product, as energy is always needed. Interventions in the system are most effective when they target key areas such as government investment, public affordability, and infrastructure. Increased investment strengthens emissions reductions, while strategic funding can help control affordability. Available infrastructure promotes growth and allows renewable energy to continue to grow on the island. This CLD is directly related to the decision maker's choice towards either wind or hydro. It helps visualize the possible risks and outcomes from choosing each option through a detailed description of the relationships present in this decision. 
 
-
-## Decision Reccomendations 
+<h2 id="recommendations">Recommendations</h2>
 To Andrew Parsons, It is recommended that the Government of Newfoundland and Labrador prioritizes renewable wind energy to power their clean energy future. This approach offers the most cost-effective balanced avenue towards a clean future through controlling public affordability and public trust. 
 
 This analysis shows the clear relationship between hydroelectric development and emissions reduction as it has been the main focus of the provincial government over the past decade as it made up 97% of Newfoundland and Labrador's electricity generation in 2024. While this is true, hydro development is costly and carries political and social risks after previous project failures, such as Muskrat Falls. Large-scale hydro projects are also associated with complicated logistical planning and high upfront development costs. In contrast, wind turbine development offers lower financial risk and more flexibility through their smaller-scale planning and lower upfront costs when compared to hydropower. There is also great social and political interest in this alternative. Recent data shows growth in this area, as electricity generated by wind turbines has seen large increases in recent years. While wind energy can be seen as less consistent due to its reliability on wind patterns, this can be addressed through improvements in grid infrastructure and energy storage solutions. A shift towards wind technology does not mean abandonment of past sustainable energy projects. Combining new efforts with past hydro infrastructure can help contribute positively to emission reduction as a whole. While a large portion of energy used comes from renewable energy (primarily Hydro) Newfoundland and Labrador are feeling the effects of climate change. The average temperature has seen a steady increase over the past decade, showing that the efforts to compare global warming still need more investment from the government. 

@@ -1,5 +1,5 @@
-# Backround.md 
-<a href="#Background">Go to Background</a>
+
+<h2 id="background">Background</h2>
 
 ## Backgrounder 
 Newfoundland and Labrador is at a crossroads when it comes to the future of energy production. As they are a province with ample natural resources, they are the perfect candidate for both coastal wind turbine development and hydro-electric power development moving into the future. This is a possible time for this east coast province to become a pioneer when it comes to energy production and climate initiatives in the maritimes. This is a complex decision that must be sufficiency backed by reliable data, as there are many stakeholders involved in this decision. Renewable energy is a major component of Newfoundland and Labrador's wellbeing as “over 80 per cent of the province’s electricity is generated from renewable energy resources” (Government of Newfoundland and Labrador, 2021). While the province predominantly supplies energy using hydroelectric plants, there is a growing demand for alternatives that are more reliable and give off less emissions. 
