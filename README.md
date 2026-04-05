@@ -10,13 +10,15 @@ This decision matters greatly to both the Provincial Government of Newfoundland 
 
 As seen in previous attempts, the push for clean energy does not always produce a positive outcome. With data driven choices, Newfoundland and Labrador can choose a future that is best for them and their environmental impacts.
 
+# Table of Contents 
+<h2 id="Background">Background</h2>
+<h2 id="Data-Sources">Data Sources</h2>
+<h2 id="Exploratory-Findings">Exploratory Findings</h2>
 
-<h2 id="Initial-cld">Initial CLD</h2>
 
+<a href="#Backgro
 ## Initial CLD
-<a href="#Initial-cld">Go to Initial CLD</a>
-
-![alt text](img/cld-draft.png.jpg)
+<a href="#Exploratory-Findings">Go to Exploratory Findings</a>
 
 ## Refined CLD
 ![alt text](<img/cld-refined (1).png>)
